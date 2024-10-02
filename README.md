@@ -1,4 +1,4 @@
-\- 👋 Hi, I’m Mohammad Razaviaan
+\ 👋 Hi, I’m Mohammad Razaviaan
 ================================
 
 Junior Frontend Developer
