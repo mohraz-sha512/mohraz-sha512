@@ -8,4 +8,4 @@ Junior Frontend Developer
 
 ### Connect with me:
 
-[![Mohammad-Razaviaan-linkedin](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/mohammad-razaviaan-shaad/)
+<P>[![Mohammad-Razaviaan-linkedin](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/mohammad-razaviaan-shaad/)</BR></p>
